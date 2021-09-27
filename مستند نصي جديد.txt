@@ -1,0 +1,106 @@
+document.getElementById('About').onclick=function(){
+   document.getElementById('About').style.borderColor=" white white #42db6b white";
+     document.getElementById('About').style.borderStyle="solid";
+     document.getElementById('About').style.borderBottomWidth="2px";
+    document.getElementById('About').style.paddingBottom="20px";
+    document.getElementById('Skills').style.borderColor=" white ";
+    document.getElementById('Portfolio').style.borderColor=" white";
+    document.getElementById('Excperince').style.borderColor=" white";
+    document.getElementById('Education').style.borderColor=" white";
+    document.getElementById('Blog').style.borderColor=" white ";
+    document.getElementById('References').style.borderColor=" white";
+    document.getElementById('Contact').style.borderColor=" white";
+}
+document.getElementById('Skills').onclick=function(){
+document.getElementById('Skills').style.borderColor=" white white #42db6b white";
+     document.getElementById('Skills').style.borderStyle="solid";
+     document.getElementById('Skills').style.borderBottomWidth="2px";
+    document.getElementById('Skills').style.paddingBottom="20px";
+    document.getElementById('About').style.borderColor="white";
+    document.getElementById('Portfolio').style.borderColor=" white";
+    document.getElementById('Excperince').style.borderColor=" white";
+    document.getElementById('Education').style.borderColor=" white";
+    document.getElementById('Blog').style.borderColor=" white ";
+    document.getElementById('References').style.borderColor=" white";
+    document.getElementById('Contact').style.borderColor=" white";
+}
+document.getElementById('Portfolio').onclick=function(){
+document.getElementById('Portfolio').style.borderColor=" white white #42db6b white";
+     document.getElementById('Portfolio').style.borderStyle="solid";
+document.getElementById('Portfolio').style.borderBottomWidth="2px";
+    document.getElementById('Portfolio').style.paddingBottom="20px";
+    document.getElementById('About').style.borderColor="white";
+    document.getElementById('Skills').style.borderColor=" white ";
+    document.getElementById('Excperince').style.borderColor=" white";
+    document.getElementById('Education').style.borderColor=" white";
+    document.getElementById('Blog').style.borderColor=" white ";
+    document.getElementById('References').style.borderColor=" white";
+    document.getElementById('Contact').style.borderColor=" white";
+}
+document.getElementById('Excperince').onclick=function(){
+document.getElementById('Excperince').style.borderColor=" white white #42db6b white";
+     document.getElementById('Excperince').style.borderStyle="solid";
+document.getElementById('Excperince').style.borderBottomWidth="2px";
+    document.getElementById('Excperince').style.paddingBottom="20px";
+    document.getElementById('About').style.borderColor="white";
+    document.getElementById('Skills').style.borderColor=" white ";
+   document.getElementById('Portfolio').style.borderColor=" white";
+    document.getElementById('Education').style.borderColor=" white";
+    document.getElementById('Blog').style.borderColor=" white ";
+    document.getElementById('References').style.borderColor=" white";
+    document.getElementById('Contact').style.borderColor=" white";
+
+}
+document.getElementById('Education').onclick=function(){
+document.getElementById('Education').style.borderColor=" white white #42db6b white";
+document.getElementById('Education').style.borderStyle="solid";
+document.getElementById('Education').style.borderBottomWidth="2px";
+    document.getElementById('Education').style.paddingBottom="20px";
+     document.getElementById('About').style.borderColor="white";
+    document.getElementById('Skills').style.borderColor=" white ";
+    document.getElementById('Excperince').style.borderColor=" white";   
+   document.getElementById('Portfolio').style.borderColor=" white";
+    document.getElementById('Blog').style.borderColor=" white ";
+    document.getElementById('References').style.borderColor=" white";
+    document.getElementById('Contact').style.borderColor=" white";
+}
+document.getElementById('Blog').onclick=function(){
+   document.getElementById('Blog').style.borderColor=" white white #42db6b white";
+     document.getElementById('Blog').style.borderStyle="solid";
+     document.getElementById('Blog').style.borderBottomWidth="2px";
+    document.getElementById('Blog').style.paddingBottom="20px";
+     document.getElementById('About').style.borderColor="white";
+    document.getElementById('Skills').style.borderColor=" white ";
+    document.getElementById('Excperince').style.borderColor=" white";   
+   document.getElementById('Portfolio').style.borderColor=" white";
+   document.getElementById('Education').style.borderColor=" white";
+    document.getElementById('References').style.borderColor=" white";
+    document.getElementById('Contact').style.borderColor=" white";
+}
+document.getElementById('References').onclick=function(){
+document.getElementById('References').style.borderColor=" white white #42db6b white";
+ document.getElementById('References').style.borderStyle="solid";
+document.getElementById('References').style.borderBottomWidth="2px";
+    document.getElementById('References').style.paddingBottom="20px";
+     document.getElementById('About').style.borderColor="white";
+    document.getElementById('Skills').style.borderColor=" white ";
+    document.getElementById('Excperince').style.borderColor=" white";   
+   document.getElementById('Portfolio').style.borderColor=" white";
+   document.getElementById('Education').style.borderColor=" white";
+    document.getElementById('Blog').style.borderColor=" white ";
+    document.getElementById('Contact').style.borderColor=" white";
+}
+document.getElementById('Contact').onclick=function(){
+document.getElementById('Contact').style.borderColor=" white white #42db6b white";
+     document.getElementById('Contact').style.borderStyle="solid";
+     document.getElementById('Contact').style.borderBottomWidth="2px";
+    document.getElementById('Contact').style.paddingBottom="20px";
+     document.getElementById('About').style.borderColor="white";
+    document.getElementById('Skills').style.borderColor=" white ";
+    document.getElementById('Excperince').style.borderColor=" white";   
+   document.getElementById('Portfolio').style.borderColor=" white";
+   document.getElementById('Education').style.borderColor=" white";
+    document.getElementById('Blog').style.borderColor=" white ";
+    document.getElementById('References').style.borderColor=" white";
+}
+
