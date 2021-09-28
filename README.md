@@ -1,2 +1,2 @@
 # personalBlog
-personal blog Form
+personal blog Template
